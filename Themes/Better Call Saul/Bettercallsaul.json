@@ -4,7 +4,7 @@
         "name": "Better Call Saul",
         "version": "2.0.0",
         "license": "MIT",
-        "updater": "https://raw.githubusercontent.com/HireSwift/Aliucord/main/Themes/Better%20Call%20Saul/Bettercallsaul.json"
+        "updater": "https://github.com/HireSwift/Aliucord/releases/download/v.2.0.0/Better-call-saul.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/1008708032382902344\/1009147574420250644\/e3d431f7b5927a35fc450497180d0ff1.jpg",
