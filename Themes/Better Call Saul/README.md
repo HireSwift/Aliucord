@@ -20,4 +20,4 @@ This is a theme for Aliucord and it's based on American drama series with the sa
 + 6\. Congratz, you are a good boi.
 ## Known issues
 - This is doesn't work correctly in AOSP based roms (check [this](https://rentry.co/themerfixer))
-- English and Russian supported (haven't tested other languages)
+
